@@ -1,4 +1,5 @@
 # Business Intelligence
+# by Alura https://github.com/alura/techguide/blob/main/_data/downloadFiles/PT_BR/business-intelligence.md
 ## Nivel 1
 - [ ] **Business Intelligence (BI) - Fundamentos**:
    - Business Intelligence é um conjunto de teorias, metodologias, processos e tecnologias que possibilitam a transformação dos dados “crus” em informações extremamente relevantes para tomada de decisão de uma empresa.
